@@ -3,7 +3,7 @@ def main():
     print("numpy imported, v", numpy.__version__)
 
     print("Hello")
-    name = input("enter yo name: ")
+    name = input("enter your name: ")
 
     print(f"hey, {name}")
     input(f"press enter to begin task 1, {name}")
